@@ -17,7 +17,7 @@ site_name = "ECE Fac/Staff Sites"
 # meaningful description of the site content for use by search engines.
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_description
-site_description = "A new project generated from the default template project."
+site_description = "A markdown alternative for faculty who would like their websites hosted outside of Brightspot"
 
 # The site_author attribute. This is used in the HTML head element.
 #
@@ -38,7 +38,7 @@ edit_uri = "edit/main/docs/"
 #
 # Read more: https://zensical.org/docs/setup/basics/#copyright
 copyright = """
-Copyright &copy; 2025 The authors
+Copyright &copy; 2026 Roman Vish
 """
 
 # Zensical supports both implicit navigation and explicitly defined navigation.
