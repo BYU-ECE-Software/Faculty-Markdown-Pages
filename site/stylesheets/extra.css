@@ -1,0 +1,12 @@
+:root > * {
+  --md-primary-fg-color:        #002E5D;
+  --md-primary-fg-color--light: #FFFFFF;
+  --md-primary-fg-color--dark:  #0047BA;
+  --md-accent-fg-color:         #0047BA;
+}
+
+[data-md-color-scheme="byu"] {
+  --md-primary-fg-color:        #EE0F0F;
+  --md-primary-fg-color--light: #ECB7B7;
+  --md-primary-fg-color--dark:  #90030C;
+}
