@@ -1,3 +1,7 @@
+---
+title: Template Faculty Page
+---
+
 # First Last
 
 <div style="text-align: center;">
