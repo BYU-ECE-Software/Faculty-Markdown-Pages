@@ -6,24 +6,42 @@
     <img src="/Faculty-Markdown-Pages/assets/beard.jpg" alt="Randy Beard" style="width:400px;"/>
 </div>
 
-Randal W. Beard received the B.S. degree in electrical engineering from the University of Utah, Salt Lake City, in 1991, the M.S. degree in electrical engineering in 1993, the M.S. degree in mathematics in 1994, and the Ph.D. degree in electrical engineering in 1995, all from Rensselaer Polytechnic Institute, Troy, N.Y. Since 1996, he has been with the Electrical and Computer Engineering Department at Brigham Young University, Provo, UT, where he is currently holds the Steven V. White University Professorship and is the department chair. In 1997 and 1998, he was a Summer Faculty Fellow at the Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA. In 2006-2007 he was a National Research Council Fellow at the Air Force Research Labs at Eglin Air Force Base, Fort Walton Beach, Florida, where he worked on vision-based guidance and control algorithms for micro air vehicles.  
-<br>
-His primary research focus is autonomous systems, unmanned air vehicles, and multiple vehicle coordination and control. He has published over 250 peer reviewed articles and has received over $15M in external research funding from AFOSR, AFRL, NASA, DARPA, and NSF. He is a fellow of the IEEE and the AIAA. He is a former associate editor for the IEEE Transactions on Automatic Control, the Journal of Intelligent and Robotics Systems, and the IEEE Control Systems Magazine. He is the recipient of several awards including the 2024 AIAA Intelligent Systems Award and the 2017 Karl G. Maeser Distinguished Lecturer Award. His students have won numerous competitions and awards for their work on micro air vehicles.
+[Curriculum Vitae](https://byu-my.sharepoint.com/:b:/g/personal/rwb5_byu_edu/IQBj4Z6YqhBESozoEHbAfZFrAeEmRU2biAZPes2cFRB8H9E?e=aOOFez)      
+
+
+
+Randal W. Beard received the B.S. degree in electrical engineering from the University of Utah, Salt Lake City, in 1991, the M.S. degree in electrical engineering in 1993, the M.S. degree in mathematics in 1994, and the Ph.D. degree in electrical engineering in 1995, all from Rensselaer Polytechnic Institute, Troy, N.Y.  Since 1996, he has been with the Electrical and Computer Engineering Department at Brigham Young University, Provo, UT, where he is currently the department chair and holds the Steven V. White University Professorship. His research interests are in navigation, guidance, and control of unmanned air vehicles, autonomous robotic systems, and multiple vehicle coordination and control.  He is a fellow of the IEEE and of the AIAA.  He is a former associate editor for the IEEE Transactions on Automatic Control, the Journal of Intelligent and Robotics Systems, and the IEEE Control Systems Magazine.  He has received numerous awards for his research and teaching including the 2018 Karl G. Maeser Distinguished Faculty Lecturer Award, BYU’s top faculty award, and the 2024 AIAA Intelligent Systems Award.  He is the author of the textbook Small Unmanned Aircraft: Theory and Practice, published by Princeton University Press, and several other textbooks. He has published over 250 research articles and secured over $20M in research funding.  His students have won numerous competitions and awards for their work on micro air vehicles.
 
 ## Contact Information
 - Email: beard@byu.edu
 - Office: 460B EB
 - Phone: (801) 422-8392
 
-## Classes Taught
-- ECEn 391: Junior Seminar
+## Selected Classes Taught
+- ECEn 240/301: Introduction to Circuits
+- ECEn 380: Introduction to Signals and Systems
+- ECEn 483: Introduction to Feedback Control
+- ECEn 536: Autonomous Aircraft Guidance, Navigation, and Control.
 - ECEn 671: Mathematics of Signals and Systems
+- ECEn 773: Linear Systems Theory
+- ECEn 774: Nonlinear Systems
 
 ## Research Interests
-- Autonomous Systems
+- Control Theory
+- Autonomous Vehicles
 - Robotics
+- Unmanned Aircraft Systems
 
 ## Publications
+[Google Scholar](https://scholar.google.com/citations?user=cLSfhaoAAAAJ&hl=en&oi=sra)
+
+### Selected Books
+- Randal W. Beard, Timothy W. McLain, Marc Killpack, Cammy Peterson, Introduction to Feedback Control using Design Studies, [GitHub](http://controlbook.byu.edu/), [pdf](https://drive.google.com/file/d/1OH6oSsbbdsxkY2CTMMxnchkWnNy_16zy/view), [Amazon](https://www.amazon.com/Introduction-Feedback-Control-Design-Studies/dp/1073396711/ref=sr_1_1?crid=18T23D6CSM6U9&dib=eyJ2IjoiMSJ9.N7vWZlciFwxj-uUYUuwRpCOEcwqq_hFT-_iN8ASGarmuudrz-npOXaA1X6D-Yk-N71LZsRFRYLrkrtmYivNul9PlTazfDpjObumwjefeJoycv9Inngizvnb1TKHgZFafUUWa9_zbQGQIYXAPmgpLIcn0X_5I-dixFhmVAGxH9vw4z2BP7MwRtrR9G_7XF72dpfNSCDzDor9-JS_fgwK5cfxW6Ln7dWTwRtK7wSIZjQc.U1zSiz2l9OUEDi-7zMMUIpeKPe6dZp_GW7XoXewHy18&dib_tag=se&keywords=Introduction+to+Feedback+Control+USING+DESIGN+STUDIES&qid=1782856752&sprefix=introduction+to+feedback+control+using+design+studies%2Caps%2C383&sr=8-1)
+- Randal W. Beard, Timothy W. McLain, Small Unmanned Aircraft: Theory and Practice, Princeton University Press, 2012, ISBN: 978-06-911-4921-9. [Amazon](https://www.amazon.com/Small-Unmanned-Aircraft-Theory-Practice/dp/0691149216/ref=sr_1_1?crid=Z6GC8AH8EP43&dib=eyJ2IjoiMSJ9.rYx3qengMJV0R58hYHh2FMXg6f3NCGwRelVS04ct_V_VL12bS0tjEGIvLncTxndBJMC8GZgOm3jYaubaHwwBa9C6_MaPJAoyS1Afwx1XDNKtX1jatMstHXC2HIUIe5OjSeMXjP58h47u9G9A9ge3bl-X2Pa0GYLIPxV9s7wqLU3e7RgXQiBX7wxas68IwBZOUNxvKP53yGAQ2SDjnMZHMiAJQlOVoVnWCZHYV8I4yM8.TVLkJuUpqWdzyFPB9I_ja9FfcWnFa6ARBQZomj0l-5g&dib_tag=se&keywords=Small+Unmanned+Aircraft%3A+Theory+and+Practice&qid=1782856802&sprefix=small+unmanned+aircraft+theory+and+practice%2Caps%2C228&sr=8-1)
+
+
+### Selected Articles
+
 - Mark E. Petersen, Randal W. Beard, “Tracking Multiple Unmanned Air Systems on SE(3) Using a Monocular Camera,” IEEE Transactions on Aerospace and Electronic Systems, (in review).
 - Mark E. Petersen, Randal W. Beard, “The Integrated Probabilistic Data Association Filter Adapted to Lie Groups,” IEEE Transactions on Aerospace and Electronic Systems, (in review).
 - Puneet Jain, Cameron K. Peterson, Randal W. Beard, “Encirclement of Moving Targets using Noisy Range and Bearing Measurements,” AIAA Journal of Guidance, Control, and Dynamics, (to appear).
