@@ -3,7 +3,7 @@
 <!-- ![Randy Beard](../assets/beard.jpg) -->
 <div style="text-align: center;">
     <!-- Have to include repo name bc of GH pages shenanigans -->
-    <img src="/Faculty-Markdown-Pages/assets/beard.jpg" alt="Randy Beard" style="width:400px;"/>
+    <img src="/faculty/Randy-Beard/beard.jpg" alt="Randy Beard" style="width:400px;"/>
 </div>
 
 [Curriculum Vitae](https://byu-my.sharepoint.com/:b:/g/personal/rwb5_byu_edu/IQBj4Z6YqhBESozoEHbAfZFrAeEmRU2biAZPes2cFRB8H9E?e=aOOFez)      
