@@ -35,3 +35,11 @@
 .md-copyright__highlight {
   color: var(--white);
 }
+
+.md-sidebar {
+  background-color: #FFFFFF;
+}
+
+.md-top {
+  color: #FFFFFF;
+}

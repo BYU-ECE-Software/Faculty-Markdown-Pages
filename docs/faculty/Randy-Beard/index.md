@@ -1,8 +1,27 @@
 # Randy Beard
 
-<!-- ![Randy Beard](../assets/beard.jpg) -->
+<div class="grid cards" markdown>
+
+-   :material-flask-outline: **Research**
+
+    ---
+
+    Explore ongoing research projects and publications.
+
+    [:octicons-arrow-right-24: View site](research.md)
+
+-   :material-robot-outline: **Robotics**
+
+    ---
+
+    Robotics lab work, projects, and resources.
+
+    [:octicons-arrow-right-24: View site](robotics.md)
+
+
+</div>
+
 <div style="text-align: center;">
-    <!-- Have to include repo name bc of GH pages shenanigans -->
     <img src="/faculty/Randy-Beard/images/beard.jpg" alt="Randy Beard" style="width:400px;"/>
 </div>
 
