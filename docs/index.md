@@ -1,7 +1,95 @@
 ---
 icon: lucide/rocket
+hide:
+    - navigation
 ---
 
 # Faculty/Staff sites
 
-Faculty and staff members can create and manage their own personal or professional websites using the GitHub's web hosting services. These sites can be used to showcase research, share resources, or provide information about courses and projects.
+<div class="grid cards" markdown>
+
+-   **Randy Beard**
+
+    [:octicons-arrow-right-24: View site](faculty/Randy-Beard/index.md)
+
+    ![Randy Beard](faculty/Randy-Beard/images/beard.jpg){ width="200" }
+
+-   **Randy Beard**
+
+    [:octicons-arrow-right-24: View site](faculty/Randy-Beard/index.md)
+
+    ![Randy Beard](faculty/Randy-Beard/images/beard.jpg){ width="200" }
+
+-   **Randy Beard**
+
+    [:octicons-arrow-right-24: View site](faculty/Randy-Beard/index.md)
+
+    ![Randy Beard](faculty/Randy-Beard/images/beard.jpg){ width="200" }
+
+-   **Randy Beard**
+
+    [:octicons-arrow-right-24: View site](faculty/Randy-Beard/index.md)
+
+    ![Randy Beard](faculty/Randy-Beard/images/beard.jpg){ width="200" }
+
+-   **Randy Beard**
+
+    [:octicons-arrow-right-24: View site](faculty/Randy-Beard/index.md)
+
+    ![Randy Beard](faculty/Randy-Beard/images/beard.jpg){ width="200" }
+
+-   **Randy Beard**
+
+    [:octicons-arrow-right-24: View site](faculty/Randy-Beard/index.md)
+
+    ![Randy Beard](faculty/Randy-Beard/images/beard.jpg){ width="200" }
+
+-   **Randy Beard**
+
+    [:octicons-arrow-right-24: View site](faculty/Randy-Beard/index.md)
+
+    ![Randy Beard](faculty/Randy-Beard/images/beard.jpg){ width="200" }
+
+-   **Randy Beard**
+
+    [:octicons-arrow-right-24: View site](faculty/Randy-Beard/index.md)
+
+    ![Randy Beard](faculty/Randy-Beard/images/beard.jpg){ width="200" }
+
+-   **Randy Beard**
+
+    [:octicons-arrow-right-24: View site](faculty/Randy-Beard/index.md)
+
+    ![Randy Beard](faculty/Randy-Beard/images/beard.jpg){ width="200" }
+
+-   **Randy Beard**
+
+    [:octicons-arrow-right-24: View site](faculty/Randy-Beard/index.md)
+
+    ![Randy Beard](faculty/Randy-Beard/images/beard.jpg){ width="200" }
+
+-   **Randy Beard**
+
+    [:octicons-arrow-right-24: View site](faculty/Randy-Beard/index.md)
+
+    ![Randy Beard](faculty/Randy-Beard/images/beard.jpg){ width="200" }
+
+-   **Randy Beard**
+
+    [:octicons-arrow-right-24: View site](faculty/Randy-Beard/index.md)
+
+    ![Randy Beard](faculty/Randy-Beard/images/beard.jpg){ width="200" }
+
+-   **Randy Beard**
+
+    [:octicons-arrow-right-24: View site](faculty/Randy-Beard/index.md)
+
+    ![Randy Beard](faculty/Randy-Beard/images/beard.jpg){ width="200" }
+
+-   **Randy Beard**
+
+    [:octicons-arrow-right-24: View site](faculty/Randy-Beard/index.md)
+
+    ![Randy Beard](faculty/Randy-Beard/images/beard.jpg){ width="200" }
+
+</div>

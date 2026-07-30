@@ -172,12 +172,12 @@ features = [
     # Turn on this feature to expand all collapsible sections in the
     # navigation sidebar by default.
     # https://zensical.org/docs/setup/navigation/#navigation-expansion
-    "navigation.expand",
+    # "navigation.expand",
 
     # This feature turns on navigation elements in the footer that allow the
     # user to navigate to a next or previous page.
     # https://zensical.org/docs/setup/footer/#navigation
-    "navigation.footer",
+    # "navigation.footer",
 
     # When section index pages are enabled, documents can be directly attached
     # to sections, which is particularly useful for providing overview pages.
@@ -203,7 +203,7 @@ features = [
     # When navigation paths are activated, a breadcrumb navigation is rendered
     # above the title of each page
     # https://zensical.org/docs/setup/navigation/#navigation-path
-    "navigation.path",
+    # "navigation.path",
 
     # When pruning is enabled, only the visible navigation items are included
     # in the rendered HTML, reducing the size of the built site by 33% or more.

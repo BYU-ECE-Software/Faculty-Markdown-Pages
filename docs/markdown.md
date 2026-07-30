@@ -1,5 +1,7 @@
 ---
 icon: simple/markdown
+hide:
+  - navigation
 ---
 
 # Markdown in 5min

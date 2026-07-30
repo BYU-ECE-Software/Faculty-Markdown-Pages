@@ -43,3 +43,12 @@
 .md-top {
   color: #FFFFFF;
 }
+
+.md-typeset .grid {
+  grid-template-columns: repeat(auto-fit, minmax(9rem, 1fr));
+}
+
+.md-typeset .grid.cards img {
+  display: block;
+  margin: 0.5rem auto 0;
+}
