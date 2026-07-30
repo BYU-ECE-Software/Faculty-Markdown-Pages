@@ -36,11 +36,23 @@ hide:
     - ECEn 773: Linear Systems Theory
     - ECEn 774: Nonlinear Systems
 
+
+=== "Research"
     ## Research Interests
     - Control Theory
     - Autonomous Vehicles
     - Robotics
     - Unmanned Aircraft Systems
+    
+    ## Links
+    - My research lab is the [Magicc Lab](https://magicc.byu.edu) where we work on guidance and control algorithms for unmanned aircraft systems.
+    - I am a member of the [Center for Autonomous Air Mobility and Sensing (CAAMS)](https://www.caams.center) which is a national research consortium conducting research on air mobility and sensing.  Many of my research projects have been funded under the center.
+    - BYU has many robotics activities.  Click [here](https://robotics.byu.edu/reu) for more information.
+    - If you are interested in doing research with me, click [here]() for pointers.
+
+    ## Current Projects
+
+    ## Past Projects
 
 === "Publications" 
     [Google Scholar](https://scholar.google.com/citations?user=cLSfhaoAAAAJ&hl=en&oi=sra)
@@ -64,15 +76,3 @@ hide:
     - J. Willard Curtis, Randal W. Beard, “Satisficing: A New Approach to Constructive Nonlinear Control,” IEEE Transactions on Automatic Control, vol. 49, no. 7, July, 2004, p. 1090-1102.
     - Randal W. Beard, Jonathan Lawton, Fred Y. Hadaegh, “A Coordination Architecture for Spacecraft Formation Control,” IEEE Transactions on Control Systems Technology, vol. 9, no. 6, November 2001, p. 777-790.
     - Randal Beard, George Saridis, John Wen, “Suffcient Conditions for the Convergence of Galerkin Approximations to the Hamilton-Jacobi Equation,” Automatica, vol. 33, no. 12, p. 2159-2177, December, 1997.
-
-=== "Research"
-    ## Links
-    - My research lab is the [Magicc Lab](https://magicc.byu.edu) where we work on guidance and control algorithms for unmanned aircraft systems.
-    - I am a member of the [Center for Autonomous Air Mobility and Sensing (CAAMS)](https://www.caams.center) which is a national research consortium conducting research on air mobility and sensing.  Many of my research projects have been funded under the center.
-    - BYU has many robotics activities.  Click [here](https://robotics.byu.edu/reu) for more information.
-    - If you are interested in doing research with me, click [here]() for pointers.
-
-    ## Current Projects
-
-    ## Past Projects
-
