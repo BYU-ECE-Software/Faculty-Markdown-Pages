@@ -11,7 +11,7 @@ hide:
 
 === "Bio"
     <div style="text-align: center;">
-        <img src="faculty/Randy-Beard/images/randy beard photo 2024.jpg" alt="Randy Beard" style="width:400px;"/>
+        <img src="faculty/Randy-Beard/images/randy_beard_photo_2024.jpg" alt="Randy Beard" style="width:400px;"/>
     </div>
 
     [Curriculum Vitae](https://byu-my.sharepoint.com/:b:/g/personal/rwb5_byu_edu/IQBj4Z6YqhBESozoEHbAfZFrAeEmRU2biAZPes2cFRB8H9E?e=aOOFez)      
