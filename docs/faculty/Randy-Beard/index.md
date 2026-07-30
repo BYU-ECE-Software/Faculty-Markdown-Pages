@@ -22,8 +22,10 @@ hide:
 
     ## Contact Information
     - Email: beard@byu.edu
-    - Office: 460B EB
     - Phone: (801) 422-8392
+    - Office: 460B EB
+    - Office Hours:  MWF 4-5PM
+
 
     ## Selected Classes Taught
     - ECEn 240/301: Introduction to Circuits
@@ -40,7 +42,7 @@ hide:
     - Robotics
     - Unmanned Aircraft Systems
 
-    ## Publications
+=== "Publications" 
     [Google Scholar](https://scholar.google.com/citations?user=cLSfhaoAAAAJ&hl=en&oi=sra)
 
     ### Selected Books
