@@ -38,7 +38,7 @@ hide:
 
 
 === "Research"
-<div style="text-align: left;">
+    <div style="text-align: left;">
         <img src="faculty/Randy-Beard/images/beard24.jpg" alt="Randy Beard" style="width:200px;"/>
     </div>
     ## Research Interests
@@ -58,7 +58,7 @@ hide:
     ## Past Projects
 
 === "Publications" 
-<div style="text-align: left;">
+    <div style="text-align: left;">
         <img src="faculty/Randy-Beard/images/beard24.jpg" alt="Randy Beard" style="width:200px;"/>
     </div>
     [Google Scholar](https://scholar.google.com/citations?user=cLSfhaoAAAAJ&hl=en&oi=sra)
