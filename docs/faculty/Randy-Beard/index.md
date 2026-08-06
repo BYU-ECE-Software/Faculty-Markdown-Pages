@@ -9,6 +9,8 @@ hide:
 
 
 === "Overview"
+    ## Overview
+
     <div style="text-align: center;">
         <img src="images/beard24.jpg" alt="Randy Beard" style="width:400px;"/>
     </div>
@@ -21,13 +23,13 @@ hide:
 
     [Curriculum Vitae](https://byu-my.sharepoint.com/:b:/g/personal/rwb5_byu_edu/IQBj4Z6YqhBESozoEHbAfZFrAeEmRU2biAZPes2cFRB8H9E?e=aOOFez) &nbsp;&nbsp; [Google Scholar](https://scholar.google.com/citations?user=cLSfhaoAAAAJ&hl=en&oi=sra) &nbsp;&nbsp; [MAGICC Lab](https://magicc.byu.edu)
 
-    ## Contact
+    ### Contact
     - **Email:** [beard@byu.edu](mailto:beard@byu.edu)
     - **Phone:** (801) 422-8392
     - **Office:** 460B Engineering Building
     - **Office hours:** MWF, 4:00–5:00 p.m.
 
-    ## Education
+    ### Education
     - Ph.D., Electrical Engineering, Rensselaer Polytechnic Institute, 1995
     - M.S., Mathematics, Rensselaer Polytechnic Institute, 1994
     - M.S., Electrical Engineering, Rensselaer Polytechnic Institute, 1993
@@ -35,26 +37,28 @@ hide:
 
 
 === "Research"
-    ## Research Areas
+    ## Research
 
-    ### Autonomous aircraft
+    ### Research Areas
+
+    #### Autonomous aircraft
     Guidance, path planning, trajectory generation, flight control, and embedded autonomy for fixed-wing, multirotor, and eVTOL aircraft. This work has included development of lightweight autopilots and experimental aircraft testbeds with thousands of hours of flight testing.
 
-    ### Navigation and estimation
+    #### Navigation and estimation
     State estimation in GNSS-degraded environments, visual-inertial navigation, continuous-time trajectory estimation, sensor calibration, target tracking, and estimation on matrix Lie groups.
 
-    ### Multi-vehicle systems
+    #### Multi-vehicle systems
     Coordination and control of teams of autonomous vehicles, including consensus, cooperative timing, formation control, distributed estimation, surveillance, and target tracking.
 
-    ### Nonlinear control
+    #### Nonlinear control
     Constructive nonlinear and optimal control, including Galerkin approximations to Hamilton–Jacobi equations, geometric control, constrained path following, and control allocation.
 
-    ## Research Environment
+    ### Research Environment
     - [MAGICC Lab](https://magicc.byu.edu) — autonomous systems, guidance, navigation, and control
     - [Center for Autonomous Air Mobility and Sensing](https://www.caams.center) — a national research consortium focused on autonomous air mobility and sensing
     - [BYU Robotics](https://robotics.byu.edu/reu) — robotics research and undergraduate research opportunities at BYU
 
-    ## Selected Contributions
+    ### Selected Contributions
     - Practical guidance and control methods for small unmanned aircraft, supported by extensive hardware-in-the-loop and flight-test validation.
     - Foundational work in consensus and cooperative control for networked multi-agent systems.
     - Navigation and tracking methods for aerial robots operating with limited, degraded, or indirect measurements.
@@ -64,15 +68,17 @@ hide:
 
 
 === "Publications"
+    ## Publications
+
     [Google Scholar](https://scholar.google.com/citations?user=cLSfhaoAAAAJ&hl=en&oi=sra) provides the most complete and current publication list.
 
-    ## Books
+    ### Books
     - Randal W. Beard, Timothy W. McLain, Marc Killpack, and Cameron Peterson, *Introduction to Feedback Control Using Design Studies*. [Book site and open materials](https://controlbook.byu.edu/) | [PDF](https://drive.google.com/file/d/1OH6oSsbbdsxkY2CTMMxnchkWnNy_16zy/view)
     - Randal W. Beard and Timothy W. McLain, *Small Unmanned Aircraft: Theory and Practice*. Princeton University Press, 2012. [Publisher](https://press.princeton.edu/books/hardcover/9780691149219/small-unmanned-aircraft) | [Book resources](https://github.com/randybeard/mavsim_public)
     - Wei Ren and Randal W. Beard, *Distributed Consensus in Multi-Vehicle Cooperative Control*. Springer, 2008. [Publisher](https://link.springer.com/book/10.1007/978-1-84800-015-5)
     - Kimon P. Valavanis, Paul Oh, Leslie Piegl, Hyunchul Shim, Randal W. Beard, and Anibal Ollero, eds., *Selected Papers from the 2nd International Symposium on UAVs*. Springer, 2010. [Publisher](https://link.springer.com/book/10.1007/978-90-481-8764-5)
 
-    ## Selected Articles
+    ### Selected Articles
     Each title below links to the paper or its publisher record.
 
     - [“Spline-Based, Factor-Graph Optimization with High-Grade Inertial Sensors”](https://doi.org/10.33012/navi.742), *Navigation*, 2026.
@@ -91,10 +97,12 @@ hide:
 
 
 === "Teaching & Service"
-    ## Teaching
+    ## Teaching & Service
+
+    ### Teaching
     Professor Beard teaches undergraduate and graduate courses in circuits, signals and systems, feedback control, autonomous aircraft, and linear and nonlinear systems. His teaching emphasizes the connection between mathematical analysis, engineering design, simulation, and experimental validation.
 
-    ### Selected Courses
+    #### Selected Courses
     - ECEn 240/301: Introduction to Circuits and Electronics
     - ECEn 380: Signals and Systems
     - ECEn 483: Introduction to Feedback Control
@@ -103,14 +111,14 @@ hide:
     - ECEn 773: Linear Systems Theory
     - ECEn 774: Nonlinear Systems Theory
 
-    ## Academic and Professional Service
+    ### Academic and Professional Service
     - Chair, BYU Department of Electrical and Computer Engineering, 2024–present
     - General Chair, American Control Conference, 2026
     - Chair, IEEE Technical Committee on Aerospace Controls, 2011–2016
     - General Co-Chair, International Conference on Unmanned Aircraft Systems, 2012
     - Former associate editor for *IEEE Transactions on Automatic Control*, *IEEE Control Systems Magazine*, and the *Journal of Intelligent & Robotic Systems*
 
-    ## Selected Honors
+    ### Selected Honors
     - AIAA Intelligent Systems Award, 2024
     - Fellow, AIAA, 2021
     - Steven V. White University Professorship, 2019–present
