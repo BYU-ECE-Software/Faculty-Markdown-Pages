@@ -114,7 +114,7 @@ hide:
 === "Service"
     ## Service
 
-    ### Selected Academic and Professional Service
+    ### Selected Service
     - Chair, BYU Department of Electrical and Computer Engineering, 2024–present
     - General Chair, American Control Conference, 2026
     - Chair, IEEE Technical Committee on Aerospace Controls, 2011–2016
