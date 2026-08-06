@@ -41,19 +41,16 @@ hide:
 
     ### Research Areas
 
-    #### Autonomous aircraft
+    - **Autonomous aircraft**
     Guidance, path planning, trajectory generation, flight control, and embedded autonomy for fixed-wing, multirotor, and eVTOL aircraft. This work has included development of lightweight autopilots and experimental aircraft testbeds with thousands of hours of flight testing.
-
-    #### Navigation and estimation
+    - ** Navigation and estimation**
     State estimation in GNSS-degraded environments, visual-inertial navigation, continuous-time trajectory estimation, sensor calibration, target tracking, and estimation on matrix Lie groups.
-
-    #### Multi-vehicle systems
+    - **Multi-vehicle systems**
     Coordination and control of teams of autonomous vehicles, including consensus, cooperative timing, formation control, distributed estimation, surveillance, and target tracking.
-
-    #### Nonlinear control
+    - **Nonlinear control**
     Constructive nonlinear and optimal control, including Galerkin approximations to Hamilton–Jacobi equations, geometric control, constrained path following, and control allocation.
 
-    ### Research Environment
+    ### Labs and Organizations
     - [MAGICC Lab](https://magicc.byu.edu) — autonomous systems, guidance, navigation, and control
     - [Center for Autonomous Air Mobility and Sensing](https://www.caams.center) — a national research consortium focused on autonomous air mobility and sensing
     - [BYU Robotics](https://robotics.byu.edu/reu) — robotics research and undergraduate research opportunities at BYU
@@ -63,8 +60,6 @@ hide:
     - Foundational work in consensus and cooperative control for networked multi-agent systems.
     - Navigation and tracking methods for aerial robots operating with limited, degraded, or indirect measurements.
     - Open instructional resources that connect control theory with complete engineering design studies.
-
-    Students interested in research should review the work of the [MAGICC Lab](https://magicc.byu.edu) and contact [beard (at) byu (dot) edu] with a brief description of their background and interests.
 
 
 === "Publications"
@@ -79,8 +74,6 @@ hide:
     - Kimon P. Valavanis, Paul Oh, Leslie Piegl, Hyunchul Shim, Randal W. Beard, and Anibal Ollero, eds., *Selected Papers from the 2nd International Symposium on UAVs*. Springer, 2010. [Publisher](https://link.springer.com/book/10.1007/978-90-481-8764-5)
 
     ### Selected Articles
-    Each title below links to the paper or its publisher record.
-
     - [“Spline-Based, Factor-Graph Optimization with High-Grade Inertial Sensors”](https://doi.org/10.33012/navi.742), *Navigation*, 2026.
     - [“An Introduction to the Invariant Extended Kalman Filter”](https://ieeexplore.ieee.org/document/10752718), *IEEE Control Systems Magazine*, 2024.
     - [“GNSS/Camera Extrinsic Calibration Using Splines on SE(3)”](https://ieeexplore.ieee.org/document/10103592), *IEEE Robotics and Automation Letters*, 2023.
@@ -98,11 +91,9 @@ hide:
 
 === "Teaching"
     ## Teaching
-
-    ### Teaching
     Professor Beard teaches undergraduate and graduate courses in feedback control, autonomous aircraft, linear and nonlinear systems, robotics, and signals and systems. His teaching emphasizes the connection between mathematical analysis, engineering design, simulation, and experimental validation.
 
-    #### Selected Courses
+    ### Selected Courses
     - ECEn 240/301: Introduction to Circuits and Electronics
     - ECEn 380: Signals and Systems
     - ECEn 483: Introduction to Feedback Control
