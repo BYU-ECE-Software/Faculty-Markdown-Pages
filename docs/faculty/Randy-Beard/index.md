@@ -96,11 +96,11 @@ hide:
     - [“Sufficient Conditions for the Convergence of Galerkin Approximations to the Hamilton–Jacobi Equation”](https://scholar.google.com/scholar?q=%22Sufficient+Conditions+for+the+Convergence+of+Galerkin+Approximations+to+the+Hamilton-Jacobi+Equation%22), *Automatica*, 1997.
 
 
-=== "Teaching & Service"
-    ## Teaching & Service
+=== "Teaching"
+    ## Teaching
 
     ### Teaching
-    Professor Beard teaches undergraduate and graduate courses in circuits, signals and systems, feedback control, autonomous aircraft, and linear and nonlinear systems. His teaching emphasizes the connection between mathematical analysis, engineering design, simulation, and experimental validation.
+    Professor Beard teaches undergraduate and graduate courses in feedback control, autonomous aircraft, linear and nonlinear systems, robotics, and signals and systems. His teaching emphasizes the connection between mathematical analysis, engineering design, simulation, and experimental validation.
 
     #### Selected Courses
     - ECEn 240/301: Introduction to Circuits and Electronics
@@ -111,7 +111,10 @@ hide:
     - ECEn 773: Linear Systems Theory
     - ECEn 774: Nonlinear Systems Theory
 
-    ### Academic and Professional Service
+=== "Service"
+    ## Service
+
+    ### Selected Academic and Professional Service
     - Chair, BYU Department of Electrical and Computer Engineering, 2024–present
     - General Chair, American Control Conference, 2026
     - Chair, IEEE Technical Committee on Aerospace Controls, 2011–2016
