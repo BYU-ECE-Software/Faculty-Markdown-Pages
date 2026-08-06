@@ -70,7 +70,7 @@ hide:
 === "Publications"
     ## Publications
 
-    [Google Scholar](https://scholar.google.com/citations?user=cLSfhaoAAAAJ&hl=en&oi=sra) provides the most complete and current publication list.
+    [Google Scholar](https://scholar.google.com/citations?user=cLSfhaoAAAAJ&hl=en&oi=sra) 
 
     ### Books
     - Randal W. Beard, Timothy W. McLain, Marc Killpack, and Cameron Peterson, *Introduction to Feedback Control Using Design Studies*. [Book site and open materials](https://controlbook.byu.edu/) | [PDF](https://drive.google.com/file/d/1OH6oSsbbdsxkY2CTMMxnchkWnNy_16zy/view)
