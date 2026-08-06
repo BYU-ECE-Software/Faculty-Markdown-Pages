@@ -17,14 +17,14 @@ hide:
 
     **Randal W. Beard** is the Steven V. White University Professor and chair of the Department of Electrical and Computer Engineering at Brigham Young University. His work focuses on guidance, navigation, and control for autonomous aircraft and multi-vehicle systems, with an emphasis on algorithms that can be implemented and validated on real robotic platforms.
 
-    He is a Fellow of the IEEE and AIAA. His recognitions include the 2024 AIAA Intelligent Systems Award, the Karl G. Maeser Distinguished Faculty Lecturer Award, and the Karl G. Maeser Research and Creative Arts Award. He has authored or coauthored four books, including *Small Unmanned Aircraft: Theory and Practice*, and his publication record includes 100 journal articles and book chapters and 189 peer-reviewed conference papers. His Google Scholar profile reports an h-index of 64 and more than 43,000 citations.
+    He is a Fellow of the IEEE and AIAA. His recognitions include the 2024 AIAA Intelligent Systems Award, the BYU Karl G. Maeser Distinguished Faculty Lecturer Award, and the BYU Karl G. Maeser Research and Creative Arts Award. He has authored or coauthored four books, including *Small Unmanned Aircraft: Theory and Practice*, and his publication record includes 100 journal articles and book chapters and 189 peer-reviewed conference papers. His Google Scholar profile reports an h-index of 64 and more than 43,000 citations.
 
-    Much of this work has been carried out with students and colleagues in the [MAGICC Lab](https://magicc.byu.edu), where theory is developed alongside flight testing and experimental validation. Student teams he has advised have received awards in international micro-air-vehicle competitions and professional conferences.
+    Much of this work has been carried out with students and colleagues in the [BYU MAGICC Lab](https://magicc.byu.edu), where theory is developed alongside flight testing and experimental validation. Student teams he has advised have received awards in international micro-air-vehicle competitions and professional conferences.
 
     [Curriculum Vitae](https://byu-my.sharepoint.com/:b:/g/personal/rwb5_byu_edu/IQBj4Z6YqhBESozoEHbAfZFrAeEmRU2biAZPes2cFRB8H9E?e=aOOFez) &nbsp;&nbsp; [Google Scholar](https://scholar.google.com/citations?user=cLSfhaoAAAAJ&hl=en&oi=sra) &nbsp;&nbsp; [MAGICC Lab](https://magicc.byu.edu)
 
     ### Contact
-    - **Email:** [beard@byu.edu](mailto:beard@byu.edu)
+    - **Email:** beard (at) byu (dot) edu
     - **Phone:** (801) 422-8392
     - **Office:** 460B Engineering Building
     - **Office hours:** MWF, 4:00–5:00 p.m.
@@ -64,7 +64,7 @@ hide:
     - Navigation and tracking methods for aerial robots operating with limited, degraded, or indirect measurements.
     - Open instructional resources that connect control theory with complete engineering design studies.
 
-    Students interested in research should review the work of the [MAGICC Lab](https://magicc.byu.edu) and contact [beard@byu.edu](mailto:beard@byu.edu) with a brief description of their background and interests.
+    Students interested in research should review the work of the [MAGICC Lab](https://magicc.byu.edu) and contact [beard (at) byu (dot) edu] with a brief description of their background and interests.
 
 
 === "Publications"
