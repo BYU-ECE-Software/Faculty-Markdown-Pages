@@ -3,76 +3,119 @@ hide:
     - navigation
 ---
 
-
 # Randy Beard
 
 [:octicons-arrow-left-24: Back to Directory](/)
 
 
-=== "Bio"
+=== "Overview"
     <div style="text-align: center;">
         <img src="images/beard24.jpg" alt="Randy Beard" style="width:400px;"/>
     </div>
 
-    [Curriculum Vitae](https://byu-my.sharepoint.com/:b:/g/personal/rwb5_byu_edu/IQBj4Z6YqhBESozoEHbAfZFrAeEmRU2biAZPes2cFRB8H9E?e=aOOFez)      
+    **Randal W. Beard** is the Steven V. White University Professor and chair of the Department of Electrical and Computer Engineering at Brigham Young University. His work focuses on guidance, navigation, and control for autonomous aircraft and multi-vehicle systems, with an emphasis on algorithms that can be implemented and validated on real robotic platforms.
 
+    He is a Fellow of the IEEE and AIAA. His recognitions include the 2024 AIAA Intelligent Systems Award, the Karl G. Maeser Distinguished Faculty Lecturer Award, and the Karl G. Maeser Research and Creative Arts Award. He has authored or coauthored four books, including *Small Unmanned Aircraft: Theory and Practice*, and his publication record includes 100 journal articles and book chapters and 189 peer-reviewed conference papers. His Google Scholar profile reports an h-index of 64 and more than 43,000 citations.
 
+    Much of this work has been carried out with students and colleagues in the [MAGICC Lab](https://magicc.byu.edu), where theory is developed alongside flight testing and experimental validation. Student teams he has advised have received awards in international micro-air-vehicle competitions and professional conferences.
 
-    Randal W. Beard received the B.S. degree in electrical engineering from the University of Utah, Salt Lake City, in 1991, the M.S. degree in electrical engineering in 1993, the M.S. degree in mathematics in 1994, and the Ph.D. degree in electrical engineering in 1995, all from Rensselaer Polytechnic Institute, Troy, N.Y.  Since 1996, he has been with the Electrical and Computer Engineering Department at Brigham Young University, Provo, UT, where he is currently the department chair and holds the Steven V. White University Professorship. His research interests are in navigation, guidance, and control of unmanned air vehicles, autonomous robotic systems, and multiple vehicle coordination and control.  He is a fellow of the IEEE and of the AIAA.  He is a former associate editor for the IEEE Transactions on Automatic Control, the Journal of Intelligent and Robotics Systems, and the IEEE Control Systems Magazine.  He has received numerous awards for his research and teaching including the 2018 Karl G. Maeser Distinguished Faculty Lecturer Award, BYU’s top faculty award, and the 2024 AIAA Intelligent Systems Award.  He is the author of the textbook Small Unmanned Aircraft: Theory and Practice, published by Princeton University Press, and several other textbooks. He has published over 250 research articles and secured over $20M in research funding.  His students have won numerous competitions and awards for their work on micro air vehicles.
+    [Curriculum Vitae](https://byu-my.sharepoint.com/:b:/g/personal/rwb5_byu_edu/IQBj4Z6YqhBESozoEHbAfZFrAeEmRU2biAZPes2cFRB8H9E?e=aOOFez) &nbsp;&nbsp; [Google Scholar](https://scholar.google.com/citations?user=cLSfhaoAAAAJ&hl=en&oi=sra) &nbsp;&nbsp; [MAGICC Lab](https://magicc.byu.edu)
 
-    ## Contact Information
-    - Email: beard@byu.edu
-    - Phone: (801) 422-8392
-    - Office: 460B EB
-    - Office Hours:  MWF 4-5PM
+    ## Contact
+    - **Email:** [beard@byu.edu](mailto:beard@byu.edu)
+    - **Phone:** (801) 422-8392
+    - **Office:** 460B Engineering Building
+    - **Office hours:** MWF, 4:00–5:00 p.m.
 
-
-    ## Selected Classes Taught
-    - ECEn 240/301: Introduction to Circuits
-    - ECEn 380: Introduction to Signals and Systems
-    - ECEn 483: Introduction to Feedback Control
-    - ECEn 536: Autonomous Aircraft Guidance, Navigation, and Control.
-    - ECEn 671: Mathematics of Signals and Systems
-    - ECEn 773: Linear Systems Theory
-    - ECEn 774: Nonlinear Systems
+    ## Education
+    - Ph.D., Electrical Engineering, Rensselaer Polytechnic Institute, 1995
+    - M.S., Mathematics, Rensselaer Polytechnic Institute, 1994
+    - M.S., Electrical Engineering, Rensselaer Polytechnic Institute, 1993
+    - B.S., Electrical Engineering, University of Utah, magna cum laude, 1991
 
 
 === "Research"
-    ## Research Interests
-    - Control Theory
-    - Autonomous Vehicles
-    - Robotics
-    - Unmanned Aircraft Systems
-    
-    ## Links
-    - My research lab is the [Magicc Lab](https://magicc.byu.edu) where we work on guidance and control algorithms for unmanned aircraft systems.
-    - I am a member of the [Center for Autonomous Air Mobility and Sensing (CAAMS)](https://www.caams.center) which is a national research consortium conducting research on air mobility and sensing.  Many of my research projects have been funded under the center.
-    - BYU has many robotics activities.  Click [here](https://robotics.byu.edu/reu) for more information.
-    - If you are interested in doing research with me, click [here]() for pointers.
+    ## Research Areas
 
-    ## Current Projects
+    ### Autonomous aircraft
+    Guidance, path planning, trajectory generation, flight control, and embedded autonomy for fixed-wing, multirotor, and eVTOL aircraft. This work has included development of lightweight autopilots and experimental aircraft testbeds with thousands of hours of flight testing.
 
-    ## Past Projects
+    ### Navigation and estimation
+    State estimation in GNSS-degraded environments, visual-inertial navigation, continuous-time trajectory estimation, sensor calibration, target tracking, and estimation on matrix Lie groups.
 
-=== "Publications" 
-    [Google Scholar](https://scholar.google.com/citations?user=cLSfhaoAAAAJ&hl=en&oi=sra)
+    ### Multi-vehicle systems
+    Coordination and control of teams of autonomous vehicles, including consensus, cooperative timing, formation control, distributed estimation, surveillance, and target tracking.
 
-    ### Selected Books
-    - Randal W. Beard, Timothy W. McLain, Marc Killpack, Cammy Peterson, Introduction to Feedback Control using Design Studies, [GitHub](http://controlbook.byu.edu/), [pdf](https://drive.google.com/file/d/1OH6oSsbbdsxkY2CTMMxnchkWnNy_16zy/view), [Amazon](https://www.amazon.com/Introduction-Feedback-Control-Design-Studies/dp/1073396711/ref=sr_1_1?crid=18T23D6CSM6U9&dib=eyJ2IjoiMSJ9.N7vWZlciFwxj-uUYUuwRpCOEcwqq_hFT-_iN8ASGarmuudrz-npOXaA1X6D-Yk-N71LZsRFRYLrkrtmYivNul9PlTazfDpjObumwjefeJoycv9Inngizvnb1TKHgZFafUUWa9_zbQGQIYXAPmgpLIcn0X_5I-dixFhmVAGxH9vw4z2BP7MwRtrR9G_7XF72dpfNSCDzDor9-JS_fgwK5cfxW6Ln7dWTwRtK7wSIZjQc.U1zSiz2l9OUEDi-7zMMUIpeKPe6dZp_GW7XoXewHy18&dib_tag=se&keywords=Introduction+to+Feedback+Control+USING+DESIGN+STUDIES&qid=1782856752&sprefix=introduction+to+feedback+control+using+design+studies%2Caps%2C383&sr=8-1)
-    - Randal W. Beard, Timothy W. McLain, Small Unmanned Aircraft: Theory and Practice, Princeton University Press, 2012, ISBN: 978-06-911-4921-9. [Amazon](https://www.amazon.com/Small-Unmanned-Aircraft-Theory-Practice/dp/0691149216/ref=sr_1_1?crid=Z6GC8AH8EP43&dib=eyJ2IjoiMSJ9.rYx3qengMJV0R58hYHh2FMXg6f3NCGwRelVS04ct_V_VL12bS0tjEGIvLncTxndBJMC8GZgOm3jYaubaHwwBa9C6_MaPJAoyS1Afwx1XDNKtX1jatMstHXC2HIUIe5OjSeMXjP58h47u9G9A9ge3bl-X2Pa0GYLIPxV9s7wqLU3e7RgXQiBX7wxas68IwBZOUNxvKP53yGAQ2SDjnMZHMiAJQlOVoVnWCZHYV8I4yM8.TVLkJuUpqWdzyFPB9I_ja9FfcWnFa6ARBQZomj0l-5g&dib_tag=se&keywords=Small+Unmanned+Aircraft%3A+Theory+and+Practice&qid=1782856802&sprefix=small+unmanned+aircraft+theory+and+practice%2Caps%2C228&sr=8-1)
+    ### Nonlinear control
+    Constructive nonlinear and optimal control, including Galerkin approximations to Hamilton–Jacobi equations, geometric control, constrained path following, and control allocation.
+
+    ## Research Environment
+    - [MAGICC Lab](https://magicc.byu.edu) — autonomous systems, guidance, navigation, and control
+    - [Center for Autonomous Air Mobility and Sensing](https://www.caams.center) — a national research consortium focused on autonomous air mobility and sensing
+    - [BYU Robotics](https://robotics.byu.edu/reu) — robotics research and undergraduate research opportunities at BYU
+
+    ## Selected Contributions
+    - Practical guidance and control methods for small unmanned aircraft, supported by extensive hardware-in-the-loop and flight-test validation.
+    - Foundational work in consensus and cooperative control for networked multi-agent systems.
+    - Navigation and tracking methods for aerial robots operating with limited, degraded, or indirect measurements.
+    - Open instructional resources that connect control theory with complete engineering design studies.
+
+    Students interested in research should review the work of the [MAGICC Lab](https://magicc.byu.edu) and contact [beard@byu.edu](mailto:beard@byu.edu) with a brief description of their background and interests.
 
 
-    ### Selected Articles
-    - Kyle Leland, Clark Taylor, David Woodburn, Randal Beard, “Spline-Based, Factor-Graph Optimization with High-Grad Inertial Sensors,” Navigation, vol. 73, doi: https://doi.org/10.33012/navi.742, January 2026.
-    - Easton Potokar, Randal W. Beard, Joshua Mangelson, “An Introduction to the Invariant Extended Kalman Filter [Lecture Notes],” IEEE Control Systems Magazine, Vol 44, No 6, p. 50-71, December 2024. https://ieeexplore.ieee.org/document/10752718.  
-    - Alex D. Jordan, Jacob C. Johnson, Timothy W. McLain, Randal W. Beard, “GNSS/Camera Extrinsic Calibration Using Splines on SE(3),” IEEE Robotics and Automation Letters, 2023.  Early Access at https://ieeexplore.ieee.org/document/10103592.
-    - Jacob C. Johnson, Joshua G. Mangelson, Randal W. Beard, “Continuous-time Trajectory Estimation for Differentially Flat Systems,” IEEE Robotics and Automation Letters, vol. 8, no. 1, p. 145-151,
-    - Jacob Johnson, Randal W. Beard, “Globally-Attractive Logarithmic Geometric Control of a Quadrotor for Aggressive Trajectory Tracking,” IEEE Control Systems Letters (L-CSS), vol. 6, p. 2216-2221, https://ieeexplore.ieee.org/document/9672147, 2022.
-    - Peter C. Niedfeldt, Randal W. Beard, “Convergence and Complexity Analysis of Recursive-RANSAC: A New Multiple Target Tracking Algorithm,” IEEE Transactions on Automatic Control, vol. 61, no. 2, p. 456-461, February, 2016.
-    - Robert Leishman, John Macdonald, Randal W. Beard, Timothy W. McLain, “Quadrotors and Accelerometers: State Estimation with an Improved Dynamic Model,” IEEE Control Systems Magazine, vol. 34, no. 1, p. 28-41, February, 2014.
-    - Rajnikant Sharma, Randal W. Beard, Clark N. Taylor, Stephen Quebe, “Graph-based Observability Analysis of Bearing-only Cooperative Localization,” IEEE Transactions on Robotics, Vol. 28, No. 2, p. 522-529, April, 2012.
-    - Randal Beard, Timothy McLain, Derek Nelson, Derek Kingston, “Decentralized Cooperative Aerial Surveillance using Fixed-Wing Miniature UAVs,” IEEE Proceedings: Special Issue on Multi-Robot Systems, vol. 94, no. 7, July, 2006, p. 1306-1324.
-    - Wei Ren, Randal W. Beard, “Consensus Seeking in Multi-Agent Systems Using Dynamically Changing Interaction Topologies,” IEEE Transactions on Automatic Control, vol. 50, no. 5, May, 2005, p. 655-661.
-    - J. Willard Curtis, Randal W. Beard, “Satisficing: A New Approach to Constructive Nonlinear Control,” IEEE Transactions on Automatic Control, vol. 49, no. 7, July, 2004, p. 1090-1102.
-    - Randal W. Beard, Jonathan Lawton, Fred Y. Hadaegh, “A Coordination Architecture for Spacecraft Formation Control,” IEEE Transactions on Control Systems Technology, vol. 9, no. 6, November 2001, p. 777-790.
-    - Randal Beard, George Saridis, John Wen, “Suffcient Conditions for the Convergence of Galerkin Approximations to the Hamilton-Jacobi Equation,” Automatica, vol. 33, no. 12, p. 2159-2177, December, 1997.
+=== "Publications"
+    [Google Scholar](https://scholar.google.com/citations?user=cLSfhaoAAAAJ&hl=en&oi=sra) provides the most complete and current publication list.
+
+    ## Books
+    - Randal W. Beard, Timothy W. McLain, Marc Killpack, and Cameron Peterson, *Introduction to Feedback Control Using Design Studies*. [Book site and open materials](https://controlbook.byu.edu/) | [PDF](https://drive.google.com/file/d/1OH6oSsbbdsxkY2CTMMxnchkWnNy_16zy/view)
+    - Randal W. Beard and Timothy W. McLain, *Small Unmanned Aircraft: Theory and Practice*. Princeton University Press, 2012. [Publisher](https://press.princeton.edu/books/hardcover/9780691149219/small-unmanned-aircraft) | [Book resources](https://github.com/randybeard/mavsim_public)
+    - Wei Ren and Randal W. Beard, *Distributed Consensus in Multi-Vehicle Cooperative Control*. Springer, 2008. [Publisher](https://link.springer.com/book/10.1007/978-1-84800-015-5)
+    - Kimon P. Valavanis, Paul Oh, Leslie Piegl, Hyunchul Shim, Randal W. Beard, and Anibal Ollero, eds., *Selected Papers from the 2nd International Symposium on UAVs*. Springer, 2010. [Publisher](https://link.springer.com/book/10.1007/978-90-481-8764-5)
+
+    ## Selected Articles
+    Each title below links to the paper or its publisher record.
+
+    - [“Spline-Based, Factor-Graph Optimization with High-Grade Inertial Sensors”](https://doi.org/10.33012/navi.742), *Navigation*, 2026.
+    - [“An Introduction to the Invariant Extended Kalman Filter”](https://ieeexplore.ieee.org/document/10752718), *IEEE Control Systems Magazine*, 2024.
+    - [“GNSS/Camera Extrinsic Calibration Using Splines on SE(3)”](https://ieeexplore.ieee.org/document/10103592), *IEEE Robotics and Automation Letters*, 2023.
+    - [“Continuous-time Trajectory Estimation for Differentially Flat Systems”](https://ieeexplore.ieee.org/document/9961871), *IEEE Robotics and Automation Letters*, 2023.
+    - [“Globally-Attractive Logarithmic Geometric Control of a Quadrotor for Aggressive Trajectory Tracking”](https://ieeexplore.ieee.org/document/9672147), *IEEE Control Systems Letters*, 2022.
+    - [“Convergence and Complexity Analysis of Recursive-RANSAC: A New Multiple Target Tracking Algorithm”](https://scholar.google.com/scholar?q=%22Convergence+and+Complexity+Analysis+of+Recursive-RANSAC%22), *IEEE Transactions on Automatic Control*, 2016.
+    - [“Quadrotors and Accelerometers: State Estimation with an Improved Dynamic Model”](https://scholar.google.com/scholar?q=%22Quadrotors+and+Accelerometers%3A+State+Estimation+with+an+Improved+Dynamic+Model%22), *IEEE Control Systems Magazine*, 2014.
+    - [“Graph-Based Observability Analysis of Bearing-Only Cooperative Localization”](https://scholar.google.com/scholar?q=%22Graph-based+Observability+Analysis+of+Bearing-only+Cooperative+Localization%22), *IEEE Transactions on Robotics*, 2012.
+    - [“Decentralized Cooperative Aerial Surveillance Using Fixed-Wing Miniature UAVs”](https://scholar.google.com/scholar?q=%22Decentralized+Cooperative+Aerial+Surveillance+using+Fixed-Wing+Miniature+UAVs%22), *Proceedings of the IEEE*, 2006.
+    - [“Consensus Seeking in Multi-Agent Systems Using Dynamically Changing Interaction Topologies”](https://scholar.google.com/scholar?q=%22Consensus+Seeking+in+Multi-Agent+Systems+Using+Dynamically+Changing+Interaction+Topologies%22), *IEEE Transactions on Automatic Control*, 2005.
+    - [“Satisficing: A New Approach to Constructive Nonlinear Control”](https://scholar.google.com/scholar?q=%22Satisficing%3A+A+New+Approach+to+Constructive+Nonlinear+Control%22), *IEEE Transactions on Automatic Control*, 2004.
+    - [“A Coordination Architecture for Spacecraft Formation Control”](https://scholar.google.com/scholar?q=%22A+Coordination+Architecture+for+Spacecraft+Formation+Control%22), *IEEE Transactions on Control Systems Technology*, 2001.
+    - [“Sufficient Conditions for the Convergence of Galerkin Approximations to the Hamilton–Jacobi Equation”](https://scholar.google.com/scholar?q=%22Sufficient+Conditions+for+the+Convergence+of+Galerkin+Approximations+to+the+Hamilton-Jacobi+Equation%22), *Automatica*, 1997.
+
+
+=== "Teaching & Service"
+    ## Teaching
+    Professor Beard teaches undergraduate and graduate courses in circuits, signals and systems, feedback control, autonomous aircraft, and linear and nonlinear systems. His teaching emphasizes the connection between mathematical analysis, engineering design, simulation, and experimental validation.
+
+    ### Selected Courses
+    - ECEn 240/301: Introduction to Circuits and Electronics
+    - ECEn 380: Signals and Systems
+    - ECEn 483: Introduction to Feedback Control
+    - ECEn 536: Autonomous Aircraft Guidance, Navigation, and Control
+    - ECEn 671: Mathematics of Signals and Systems
+    - ECEn 773: Linear Systems Theory
+    - ECEn 774: Nonlinear Systems Theory
+
+    ## Academic and Professional Service
+    - Chair, BYU Department of Electrical and Computer Engineering, 2024–present
+    - General Chair, American Control Conference, 2026
+    - Chair, IEEE Technical Committee on Aerospace Controls, 2011–2016
+    - General Co-Chair, International Conference on Unmanned Aircraft Systems, 2012
+    - Former associate editor for *IEEE Transactions on Automatic Control*, *IEEE Control Systems Magazine*, and the *Journal of Intelligent & Robotic Systems*
+
+    ## Selected Honors
+    - AIAA Intelligent Systems Award, 2024
+    - Fellow, AIAA, 2021
+    - Steven V. White University Professorship, 2019–present
+    - Karl G. Maeser Distinguished Faculty Lecturer Award, BYU, 2017
+    - Fellow, IEEE, 2015
+    - Karl G. Maeser Research and Creative Arts Award, BYU, 2009
+    - Outstanding Researcher, BYU College of Engineering and Technology, 2008
+    - National Research Council Fellowship, 2006–2007
