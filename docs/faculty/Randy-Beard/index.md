@@ -91,6 +91,7 @@ hide:
 
 === "Teaching"
     ## Teaching
+    
     Professor Beard teaches undergraduate and graduate courses in feedback control, autonomous aircraft, linear and nonlinear systems, robotics, and signals and systems. His teaching emphasizes the connection between mathematical analysis, engineering design, simulation, and experimental validation.
 
     ### Selected Courses
