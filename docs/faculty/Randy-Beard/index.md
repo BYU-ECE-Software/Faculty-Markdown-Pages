@@ -113,6 +113,9 @@ hide:
     - General Co-Chair, International Conference on Unmanned Aircraft Systems, 2012
     - Former associate editor for *IEEE Transactions on Automatic Control*, *IEEE Control Systems Magazine*, and the *Journal of Intelligent & Robotic Systems*
 
+=== "Honors"
+    ## Honors
+    
     ### Selected Honors
     - AIAA Intelligent Systems Award, 2024
     - Fellow, AIAA, 2021
