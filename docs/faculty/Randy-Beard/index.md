@@ -108,7 +108,7 @@ hide:
 
     ### Selected Service
     - Chair, BYU Department of Electrical and Computer Engineering, 2024–present
-    - General Chair, American Control Conference, 2026
+    - General Chair, [American Control Conference, 2026](https://acc2026.a2c2.org)
     - Chair, IEEE Technical Committee on Aerospace Controls, 2011–2016
     - General Co-Chair, International Conference on Unmanned Aircraft Systems, 2012
     - Former associate editor for *IEEE Transactions on Automatic Control*, *IEEE Control Systems Magazine*, and the *Journal of Intelligent & Robotic Systems*
