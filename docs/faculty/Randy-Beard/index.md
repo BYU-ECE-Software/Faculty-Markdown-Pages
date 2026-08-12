@@ -43,7 +43,7 @@ hide:
 
     - **Autonomous aircraft**
     Guidance, path planning, trajectory generation, flight control, and embedded autonomy for fixed-wing, multirotor, and eVTOL aircraft. This work has included development of lightweight autopilots and experimental aircraft testbeds with thousands of hours of flight testing.
-    - ** Navigation and estimation**
+    - **Navigation and estimation**
     State estimation in GNSS-degraded environments, visual-inertial navigation, continuous-time trajectory estimation, sensor calibration, target tracking, and estimation on matrix Lie groups.
     - **Multi-vehicle systems**
     Coordination and control of teams of autonomous vehicles, including consensus, cooperative timing, formation control, distributed estimation, surveillance, and target tracking.
