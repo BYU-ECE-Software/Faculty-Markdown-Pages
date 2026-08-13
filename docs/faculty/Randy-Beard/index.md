@@ -117,11 +117,13 @@ hide:
     ## Honors
     
     ### Selected Honors
+    - Steven V. White University Professorship, 2019–present
     - AIAA Intelligent Systems Award, 2024
     - Fellow, AIAA, 2021
-    - Steven V. White University Professorship, 2019–present
     - Karl G. Maeser Distinguished Faculty Lecturer Award, BYU, 2017
     - Fellow, IEEE, 2015
+    - Cozzins Teaching and Learning Fellowship, BYU, 2012-2015
     - Karl G. Maeser Research and Creative Arts Award, BYU, 2009
-    - Outstanding Researcher, BYU College of Engineering and Technology, 2008
-    - National Research Council Fellowship, 2006–2007
+    - Technology Transfer Award, BYU, 2006
+    - Young Scholar Award, BYU, 2004
+    
