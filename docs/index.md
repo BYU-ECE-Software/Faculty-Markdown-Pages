@@ -4,10 +4,14 @@ hide:
     - navigation
 ---
 
-# Faculty/Staff sites
+# Electrical and Computer Engineering Faculty
 
 <div class="grid cards" markdown>
 
+-   [**Randy Beard**](faculty/Randy-Beard/#overview)
+
+    [![Randy Beard](faculty/Randy-Beard/images/beard.jpg){ width="200" }](faculty/Randy-Beard/#overview)
+    
 -   **Randy Beard**
 
     [:octicons-arrow-right-24: View site](faculty/Randy-Beard/#overview)
