@@ -21,7 +21,7 @@ hide:
 
     Much of this work has been carried out with students and colleagues in the [BYU MAGICC Lab](https://magicc.byu.edu), where theory is developed alongside flight testing and experimental validation. Student teams he has advised have received awards in international micro-air-vehicle competitions and professional conferences.
 
-    [Curriculum Vitae](https://byu-my.sharepoint.com/:b:/g/personal/rwb5_byu_edu/IQBj4Z6YqhBESozoEHbAfZFrAeEmRU2biAZPes2cFRB8H9E?e=aOOFez) &nbsp;&nbsp; [Google Scholar](https://scholar.google.com/citations?user=cLSfhaoAAAAJ&hl=en&oi=sra) &nbsp;&nbsp; [MAGICC Lab](https://magicc.byu.edu)
+    [Curriculum Vitae](https://byu-my.sharepoint.com/:b:/g/personal/rwb5_byu_edu/IQBj4Z6YqhBESozoEHbAfZFrAeEmRU2biAZPes2cFRB8H9E?e=aOOFez) 
 
     ### Contact
     - **Email:** beard (at) byu (dot) edu
