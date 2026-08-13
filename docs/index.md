@@ -14,6 +14,8 @@ hide:
 
     Professor
 
+    Department Chair
+
 -   [![Steven Allen](faculty/Steven-Allen/images/allen.jpg){ width="200" }](faculty/Steven-Allen/#overview)
 
     [**Steven Allen**](faculty/Steven-Allen/#overview)
