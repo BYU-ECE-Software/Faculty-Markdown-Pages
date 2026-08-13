@@ -8,7 +8,7 @@ hide:
 
 <div class="grid cards" markdown>
 
--   [![Randy Beard](faculty/Randy-Beard/images/images/beard24.jpg){ width="200" }](faculty/Randy-Beard/#overview)
+-   [![Randy Beard](faculty/Randy-Beard/images/beard24.jpg){ width="200" }](faculty/Randy-Beard/#overview)
 
     [**Randy Beard**](faculty/Randy-Beard/#overview)
 
