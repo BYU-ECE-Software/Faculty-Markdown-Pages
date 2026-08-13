@@ -1,5 +1,4 @@
 ---
-icon: lucide/rocket
 hide:
   - navigation
 ---
@@ -8,264 +7,160 @@ hide:
 
 <div class="grid cards" markdown>
 
-- <div style="text-align: center;" markdown>
+- [![Randy Beard](faculty/Randy-Beard/images/beard.jpg){ width="200" }](faculty/Randy-Beard/#overview)
 
-    [![Randy Beard](faculty/Randy-Beard/images/beard.jpg){ width="200" }](faculty/Randy-Beard/#overview)
+  [**Randy Beard**](faculty/Randy-Beard/#overview)
 
-    [**Randy Beard**](faculty/Randy-Beard/#overview)
+  Professor
 
-    Professor
+- [![Steven Allen](faculty/Steven-Allen/images/allen.jpg){ width="200" }](faculty/Steven-Allen/#overview)
 
-  </div>
+  [**Steven Allen**](faculty/Steven-Allen/#overview)
 
-- <div style="text-align: center;" markdown>
+  Associate Research Professor
 
-    [![Steven Allen](faculty/Steven-Allen/images/allen.jpg){ width="200" }](faculty/Steven-Allen/#overview)
+- [![Ryan Camacho](faculty/Ryan-Camacho/images/camacho.jpg){ width="200" }](faculty/Ryan-Camacho/#overview)
 
-    [**Steven Allen**](faculty/Steven-Allen/#overview)
+  [**Ryan Camacho**](faculty/Ryan-Camacho/#overview)
 
-    Associate Research Professor
+  Professor
 
-  </div>
+- [![Wood Chiang](faculty/Wood-Chiang/images/chiang.jpg){ width="200" }](faculty/Wood-Chiang/#overview)
 
-- <div style="text-align: center;" markdown>
+  [**Wood Chiang**](faculty/Wood-Chiang/#overview)
 
-    [![Ryan Camacho](faculty/Ryan-Camacho/images/camacho.jpg){ width="200" }](faculty/Ryan-Camacho/#overview)
+  Associate Professor
 
-    [**Ryan Camacho**](faculty/Ryan-Camacho/#overview)
+- [![Jamison Ebert](faculty/Jamison-Ebert/images/ebert.jpg){ width="200" }](faculty/Jamison-Ebert/#overview)
 
-    Professor
+  [**Jamison Ebert**](faculty/Jamison-Ebert/#overview)
 
-  </div>
+  Assistant Professor
 
-- <div style="text-align: center;" markdown>
+- [![Jeff Goeders](faculty/Jeff-Goeders/images/goeders.jpg){ width="200" }](faculty/Jeff-Goeders/#overview)
 
-    [![Wood Chiang](faculty/Wood-Chiang/images/chiang.jpg){ width="200" }](faculty/Wood-Chiang/#overview)
+  [**Jeff Goeders**](faculty/Jeff-Goeders/#overview)
 
-    [**Wood Chiang**](faculty/Wood-Chiang/#overview)
+  Associate Professor
 
-    Associate Professor
+- [![Derek Hansen](faculty/Derek-Hansen/images/hansen.jpg){ width="200" }](faculty/Derek-Hansen/#overview)
 
-  </div>
+  [**Derek Hansen**](faculty/Derek-Hansen/#overview)
 
-- <div style="text-align: center;" markdown>
+  Professor
 
-    [![Jamison Ebert](faculty/Jamison-Ebert/images/ebert.jpg){ width="200" }](faculty/Jamison-Ebert/#overview)
+- [![Willie Harrison](faculty/Willie-Harrison/images/harrison.jpg){ width="200" }](faculty/Willie-Harrison/#overview)
 
-    [**Jamison Ebert**](faculty/Jamison-Ebert/#overview)
+  [**Willie Harrison**](faculty/Willie-Harrison/#overview)
 
-    Assistant Professor
+  Associate Professor
 
-  </div>
+- [![Aaron Hawkins](faculty/Aaron-Hawkins/images/hawkins.jpg){ width="200" }](faculty/Aaron-Hawkins/#overview)
 
-- <div style="text-align: center;" markdown>
+  [**Aaron Hawkins**](faculty/Aaron-Hawkins/#overview)
 
-    [![Jeff Goeders](faculty/Jeff-Goeders/images/goeders.jpg){ width="200" }](faculty/Jeff-Goeders/#overview)
+  Professor
 
-    [**Jeff Goeders**](faculty/Jeff-Goeders/#overview)
+- [![Michael Jensen](faculty/Michael-Jensen/images/jensen.jpg){ width="200" }](faculty/Michael-Jensen/#overview)
 
-    Associate Professor
+  [**Michael Jensen**](faculty/Michael-Jensen/#overview)
 
-  </div>
+  Professor
 
-- <div style="text-align: center;" markdown>
+- [![D. J. Lee](faculty/DJ-Lee/images/lee.jpg){ width="200" }](faculty/DJ-Lee/#overview)
 
-    [![Derek Hansen](faculty/Derek-Hansen/images/hansen.jpg){ width="200" }](faculty/Derek-Hansen/#overview)
+  [**D. J. Lee**](faculty/DJ-Lee/#overview)
 
-    [**Derek Hansen**](faculty/Derek-Hansen/#overview)
+  Professor
 
-    Professor
+- [![Scott Lloyd](faculty/Scott-Lloyd/images/lloyd.jpg){ width="200" }](faculty/Scott-Lloyd/#overview)
 
-  </div>
+  [**Scott Lloyd**](faculty/Scott-Lloyd/#overview)
 
-- <div style="text-align: center;" markdown>
+  Teaching Professor
 
-    [![Willie Harrison](faculty/Willie-Harrison/images/harrison.jpg){ width="200" }](faculty/Willie-Harrison/#overview)
+- [![David Long](faculty/David-Long/images/long.jpg){ width="200" }](faculty/David-Long/#overview)
 
-    [**Willie Harrison**](faculty/Willie-Harrison/#overview)
+  [**David Long**](faculty/David-Long/#overview)
 
-    Associate Professor
+  Professor
 
-  </div>
+- [![Phil Lundrigan](faculty/Phil-Lundrigan/images/lundrigan.jpg){ width="200" }](faculty/Phil-Lundrigan/#overview)
 
-- <div style="text-align: center;" markdown>
+  [**Phil Lundrigan**](faculty/Phil-Lundrigan/#overview)
 
-    [![Aaron Hawkins](faculty/Aaron-Hawkins/images/hawkins.jpg){ width="200" }](faculty/Aaron-Hawkins/#overview)
+  Associate Professor
 
-    [**Aaron Hawkins**](faculty/Aaron-Hawkins/#overview)
+- [![Josh Mangelson](faculty/Josh-Mangelson/images/mangelson.jpg){ width="200" }](faculty/Josh-Mangelson/#overview)
 
-    Professor
+  [**Josh Mangelson**](faculty/Josh-Mangelson/#overview)
 
-  </div>
+  Associate Professor
 
-- <div style="text-align: center;" markdown>
+- [![Preston Manwaring](faculty/Preston-Manwaring/images/manwaring.jpg){ width="200" }](faculty/Preston-Manwaring/#overview)
 
-    [![Michael Jensen](faculty/Michael-Jensen/images/jensen.jpg){ width="200" }](faculty/Michael-Jensen/#overview)
+  [**Preston Manwaring**](faculty/Preston-Manwaring/#overview)
 
-    [**Michael Jensen**](faculty/Michael-Jensen/#overview)
+  Associate Professor
 
-    Professor
+- [![Brian Mazzeo](faculty/Brian-Mazzeo/images/mazzeo.jpg){ width="200" }](faculty/Brian-Mazzeo/#overview)
 
-  </div>
+  [**Brian Mazzeo**](faculty/Brian-Mazzeo/#overview)
 
-- <div style="text-align: center;" markdown>
+  Professor
 
-    [![D. J. Lee](faculty/DJ-Lee/images/lee.jpg){ width="200" }](faculty/DJ-Lee/#overview)
+- [![Greg Nordin](faculty/Greg-Nordin/images/nordin.jpg){ width="200" }](faculty/Greg-Nordin/#overview)
 
-    [**D. J. Lee**](faculty/DJ-Lee/#overview)
+  [**Greg Nordin**](faculty/Greg-Nordin/#overview)
 
-    Professor
+  Professor
 
-  </div>
+- [![Cammy Peterson](faculty/Cammy-Peterson/images/peterson.jpg){ width="200" }](faculty/Cammy-Peterson/#overview)
 
-- <div style="text-align: center;" markdown>
+  [**Cammy Peterson**](faculty/Cammy-Peterson/#overview)
 
-    [![Scott Lloyd](faculty/Scott-Lloyd/images/lloyd.jpg){ width="200" }](faculty/Scott-Lloyd/#overview)
+  Associate Professor
 
-    [**Scott Lloyd**](faculty/Scott-Lloyd/#overview)
+- [![Ben Schooley](faculty/Ben-Schooley/images/schooley.jpg){ width="200" }](faculty/Ben-Schooley/#overview)
 
-    Teaching Professor
+  [**Ben Schooley**](faculty/Ben-Schooley/#overview)
 
-  </div>
+  Professor
 
-- <div style="text-align: center;" markdown>
+- [![Stephen Schultz](faculty/Stephen-Schultz/images/schultz.jpg){ width="200" }](faculty/Stephen-Schultz/#overview)
 
-    [![David Long](faculty/David-Long/images/long.jpg){ width="200" }](faculty/David-Long/#overview)
+  [**Stephen Schultz**](faculty/Stephen-Schultz/#overview)
 
-    [**David Long**](faculty/David-Long/#overview)
+  Professor
 
-    Professor
+- [![Daniel Smalley](faculty/Daniel-Smalley/images/smalley.jpg){ width="200" }](faculty/Daniel-Smalley/#overview)
 
-  </div>
+  [**Daniel Smalley**](faculty/Daniel-Smalley/#overview)
 
-- <div style="text-align: center;" markdown>
+  Associate Professor
 
-    [![Phil Lundrigan](faculty/Phil-Lundrigan/images/lundrigan.jpg){ width="200" }](faculty/Phil-Lundrigan/#overview)
+- [![Jay Snell](faculty/Jay-Snell/images/snell.jpg){ width="200" }](faculty/Jay-Snell/#overview)
 
-    [**Phil Lundrigan**](faculty/Phil-Lundrigan/#overview)
+  [**Jay Snell**](faculty/Jay-Snell/#overview)
 
-    Associate Professor
+  Assistant Teaching Professor
 
-  </div>
+- [![James Usevitch](faculty/James-Usevitch/images/usevitch.png){ width="200" }](faculty/James-Usevitch/#overview)
 
-- <div style="text-align: center;" markdown>
+  [**James Usevitch**](faculty/James-Usevitch/#overview)
 
-    [![Josh Mangelson](faculty/Josh-Mangelson/images/mangelson.jpg){ width="200" }](faculty/Josh-Mangelson/#overview)
+  Assistant Professor
 
-    [**Josh Mangelson**](faculty/Josh-Mangelson/#overview)
+- [![Karl Warnick](faculty/Karl-Warnick/images/warnick.jpg){ width="200" }](faculty/Karl-Warnick/#overview)
 
-    Associate Professor
+  [**Karl Warnick**](faculty/Karl-Warnick/#overview)
 
-  </div>
+  Professor
 
-- <div style="text-align: center;" markdown>
+- [![Mike Wirthlin](faculty/Mike-Wirthlin/images/wirthlin.jpg){ width="200" }](faculty/Mike-Wirthlin/#overview)
 
-    [![Preston Manwaring](faculty/Preston-Manwaring/images/manwaring.jpg){ width="200" }](faculty/Preston-Manwaring/#overview)
+  [**Mike Wirthlin**](faculty/Mike-Wirthlin/#overview)
 
-    [**Preston Manwaring**](faculty/Preston-Manwaring/#overview)
-
-    Associate Professor
-
-  </div>
-
-- <div style="text-align: center;" markdown>
-
-    [![Brian Mazzeo](faculty/Brian-Mazzeo/images/mazzeo.jpg){ width="200" }](faculty/Brian-Mazzeo/#overview)
-
-    [**Brian Mazzeo**](faculty/Brian-Mazzeo/#overview)
-
-    Professor
-
-  </div>
-
-- <div style="text-align: center;" markdown>
-
-    [![Greg Nordin](faculty/Greg-Nordin/images/nordin.jpg){ width="200" }](faculty/Greg-Nordin/#overview)
-
-    [**Greg Nordin**](faculty/Greg-Nordin/#overview)
-
-    Professor
-
-  </div>
-
-- <div style="text-align: center;" markdown>
-
-    [![Cammy Peterson](faculty/Cammy-Peterson/images/peterson.jpg){ width="200" }](faculty/Cammy-Peterson/#overview)
-
-    [**Cammy Peterson**](faculty/Cammy-Peterson/#overview)
-
-    Associate Professor
-
-  </div>
-
-- <div style="text-align: center;" markdown>
-
-    [![Ben Schooley](faculty/Ben-Schooley/images/schooley.jpg){ width="200" }](faculty/Ben-Schooley/#overview)
-
-    [**Ben Schooley**](faculty/Ben-Schooley/#overview)
-
-    Professor
-
-  </div>
-
-- <div style="text-align: center;" markdown>
-
-    [![Stephen Schultz](faculty/Stephen-Schultz/images/schultz.jpg){ width="200" }](faculty/Stephen-Schultz/#overview)
-
-    [**Stephen Schultz**](faculty/Stephen-Schultz/#overview)
-
-    Professor
-
-  </div>
-
-- <div style="text-align: center;" markdown>
-
-    [![Daniel Smalley](faculty/Daniel-Smalley/images/smalley.jpg){ width="200" }](faculty/Daniel-Smalley/#overview)
-
-    [**Daniel Smalley**](faculty/Daniel-Smalley/#overview)
-
-    Associate Professor
-
-  </div>
-
-- <div style="text-align: center;" markdown>
-
-    [![Jay Snell](faculty/Jay-Snell/images/snell.jpg){ width="200" }](faculty/Jay-Snell/#overview)
-
-    [**Jay Snell**](faculty/Jay-Snell/#overview)
-
-    Assistant Teaching Professor
-
-  </div>
-
-- <div style="text-align: center;" markdown>
-
-    [![James Usevitch](faculty/James-Usevitch/images/usevitch.png){ width="200" }](faculty/James-Usevitch/#overview)
-
-    [**James Usevitch**](faculty/James-Usevitch/#overview)
-
-    Assistant Professor
-
-  </div>
-
-- <div style="text-align: center;" markdown>
-
-    [![Karl Warnick](faculty/Karl-Warnick/images/warnick.jpg){ width="200" }](faculty/Karl-Warnick/#overview)
-
-    [**Karl Warnick**](faculty/Karl-Warnick/#overview)
-
-    Professor
-
-  </div>
-
-- <div style="text-align: center;" markdown>
-
-    [![Mike Wirthlin](faculty/Mike-Wirthlin/images/wirthlin.jpg){ width="200" }](faculty/Mike-Wirthlin/#overview)
-
-    [**Mike Wirthlin**](faculty/Mike-Wirthlin/#overview)
-
-    Professor
-
-  </div>
+  Professor
 
 </div>
