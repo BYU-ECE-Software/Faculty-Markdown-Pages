@@ -8,9 +8,11 @@ hide:
 
 <div class="grid cards" markdown>
 
--   [**Randy Beard**](faculty/Randy-Beard/#overview)
+-   [![Randy Beard](faculty/Randy-Beard/images/beard.jpg){ width="200" }](faculty/Randy-Beard/#overview)
 
-    [![Randy Beard](faculty/Randy-Beard/images/beard.jpg){ width="200" }](faculty/Randy-Beard/#overview)
+    [**Randy Beard**](faculty/Randy-Beard/#overview)
+
+    Professor
     
 -   **Randy Beard**
 
