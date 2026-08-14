@@ -39,10 +39,6 @@ hide:
 === "Publications"
     ## Publications
 
-    Citations: 1,572 &nbsp;&nbsp;
-    h-index: 15 &nbsp;&nbsp;
-    i10-index: 22
-
     ### Book Chapters
     - **Jeffrey Goeders**, Graham M. Holland, Lesley Shannon, and Steven J.E. Wilton, "Systems-on-Chip on FPGAs", *FPGAs for Software Programmers*, Springer, 2016.
     - Andrew Canis, Jongsok Choi, Blair Fort, Bain Syrowik, Ruo Long Lian, Yu Ting Chen, Hsuan Hsiao, **Jeffrey Goeders**, Stephen Brown, and Jason Anderson, "LegUp high-level synthesis", *FPGAs for Software Programmers*, Springer, 2016.
@@ -70,6 +66,7 @@ hide:
     - Jacob Brown, Colton Yates, **Jeffrey Goeders**, Michael Wirthlin, "RarePlanes Detection Using YOLOv5 on the Versal Adaptive SoC", *Aerospace Conference*, pp. 1-9, March 2025.
     - **Jeffrey Goeders**, Dallin Wood, Victoriah Meyer, Cameron Samson, Jeffrey Black, Dolores Black, Mike Wirthlin, "Dose Rate Effects on Dynamic Operation of an 8-bit Microcontroller", *Radiation Effects on Components and Systems Conference (RADECS)*, Sep 2024.
     - Hayden Cook and **Jeffrey Goeders**, "Techniques for Exploring Fine-Grained LUT and Routing Aging on a 28nm FPGA", *International Conference on Field-Programmable Logic and Applications (FPL)*, Sep 2024.
+    - Weston Smith, Zachary Driskill, **Jeffrey Goeders**, and Michael Wirthlin, "Digital Design Education Using an Open-Source, Cloud-Based FPGA Toolchain", *Intermountain Engineering, Technology and Computing Conference (i-ETC)*, May 2024.
     - Reilly McKendrick, Keenan Faulkner, and **Jeffrey Goeders**, "Assuring Netlist-to-Bitstream Equivalence using Physical Netlist Generation and Structural Comparison", *International Conference on Field Programmable Technology (FPT)*, Dec 2023.
     - Dallin Dahl, Corey Simpson, Keenan Faulkner, Brent Nelson, and **Jeffrey Goeders**, "IPRec and Isoblaze: Fuzzy Subcircuit Isomorphism for IP Detection in Physical Netlists", *Physical Assurance and Inspection of Electronics Conference (PAINE)*, pp. 26-32, Oct 2023.
     - Hayden Cook, Zephram Tripp, Brad Hutchings, and **Jeffrey Goeders**, "Improving the Reliability of FPGA CRO PUFs", *International Conference on Field-Programmable Logic and Applications (FPL)*, pp. 311-316, Sep 2023.
@@ -99,9 +96,6 @@ hide:
     ### Peer-Reviewed International Workshop Publications
     - **Jeffrey Goeders**, Weston Smith, Jacob Bertrand, Ethan Hunter, Maria Kastriotou, Michael Wirthlin, "Neutron Radiation Testing of Multiple System-on-Chip Devices Using a Unified Test Framework", *Workshop on Radiation Effects Data*, Jul 2025.
     - Adam Hastings, Sean Jensen, **Jeffrey Goeders**, and Brad Hutchings, "Using Physical and Functional Comparisons to Assure 3rd-Party IP for Modern FPGAs", *International Verification and Security Workshop (IVSW)*, Jul 2018.
-
-    ### Other Publications
-    - Weston Smith, Zachary Driskill, **Jeffrey Goeders**, and Michael Wirthlin, "Digital Design Education Using an Open-Source, Cloud-Based FPGA Toolchain", *Intermountain Engineering, Technology and Computing Conference (i-ETC)*, May 2024.
 
 === "Teaching"
     ## Teaching
