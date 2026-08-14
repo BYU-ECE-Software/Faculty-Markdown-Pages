@@ -34,7 +34,7 @@ hide:
     ### Education
     - Ph.D., Computer Engineering, The University of British Columbia, 2016
     - M.A.Sc., Computer Engineering, The University of British Columbia, 2012
-    - B.A.Sc. w/ Honors, Computer Engineering, University of Toronto, 2010
+    - B.A.Sc. with Honors, Computer Engineering, University of Toronto, 2010
 
 === "Publications"
     ## Publications
