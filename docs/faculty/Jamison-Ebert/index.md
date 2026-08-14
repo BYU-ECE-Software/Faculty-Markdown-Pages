@@ -75,5 +75,4 @@ hide:
     ## Honors
 
     ### Selected Honors
-    - Graduate Merit Fellow, Texas A&M University, 2020–2024
-    - Magna Cum Laude, Brigham Young University, 2020
+    - Graduate Merit Fellow, Texas A&M University
