@@ -112,14 +112,14 @@ hide:
     - **ECEN 629**: Reconfigurable Computing Systems (Winter 2018, Winter 2020, Winter 2022, Winter 2024)
 
     ### Course Development
-    - [ECEN 522R: Hardware Security (BYU)](https://byu-cpe.github.io/ecen522r-hw-security/)
-    - ECEN 522R: ASIC VLSI CAD Tools (BYU)
-    - [ECEN 427: Embedded System Design (BYU)](https://byu-cpe.github.io/ecen427/)
-    - [ECEN 625: High-Level Digital Design Automation (BYU)](https://byu-cpe.github.io/ecen625/)
-    - [BYU Computing Boot Camp](https://byu-cpe.github.io/ComputingBootCamp/)
-    - [ECEN 330: Intro to Embedded Systems Programming (BYU)](https://byu-cpe.github.io/ecen330/)
     - [ECEN 220: Fundamentals of Digital Design (BYU)](http://ecen220wiki.groups.et.byu.net/)
+    - [ECEN 330: Intro to Embedded Systems Programming (BYU)](https://byu-cpe.github.io/ecen330/)
+    - [ECEN 427: Embedded System Design (BYU)](https://byu-cpe.github.io/ecen427/)
+    - ECEN 522R: ASIC VLSI CAD Tools (BYU)
+    - [ECEN 522R: Hardware Security (BYU)](https://byu-cpe.github.io/ecen522r-hw-security/)
+    - [ECEN 625: High-Level Digital Design Automation (BYU)](https://byu-cpe.github.io/ecen625/)
     - EECE 381: Computer Systems Design Studio (UBC)
+    - [BYU Computing Boot Camp](https://byu-cpe.github.io/ComputingBootCamp/)
 
 === "Service"
     ## Service
