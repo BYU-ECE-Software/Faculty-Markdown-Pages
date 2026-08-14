@@ -14,33 +14,26 @@ hide:
     ## Overview
 
     <div style="text-align: center;">
-        <img src="images/goeders-portrait.jpg" alt="Jeffrey Goeders" style="width:400px;"/>
+        <img src="images/goeders-portrait.jpg" alt="Jeffrey Goeders" style="width:320px;"/>
     </div>
 
     **Jeffrey Goeders** is an Associate Professor in the Department of Electrical and Computer Engineering at Brigham Young University, where he has been on the faculty since 2016.  His research is in computer-aided design for FPGAs and reconfigurable computing, spanning high-level synthesis, hardware debug, hardware security, and the reliability of FPGA and system-on-chip devices in radiation environments.  More recently his group has worked on applying large language models to hardware design and verification.
 
     He received his Ph.D. from the University of British Columbia in 2016, where he worked with Steve Wilton on techniques for in-system, observation-based debug of high-level synthesis circuits on FPGAs.  He is a Senior Member of both the IEEE and the ACM, and serves the reconfigurable computing community as General Chair of FCCM 2027 and as Information Director for ACM Transactions on Reconfigurable Technology and Systems.
 
-    [Personal Website](https://jeff.goeders.com) &nbsp;&nbsp;
+    [Google Scholar](https://scholar.google.com/citations?user=mSyX_kYAAAAJ&hl=en) &nbsp;&nbsp;
+    [Configurable Computing Lab](https://ccl.byu.edu/) &nbsp;&nbsp;
     [GitHub](https://github.com/jgoeders)
 
     ### Contact
     - **Email:** [jgoeders@byu.edu](mailto:jgoeders@byu.edu)
     - **Phone:** 801-422-3499
-    - **Office:** 450J Engineering Building
+    - **Office:** 450I Engineering Building
     - **Department:** Department of Electrical and Computer Engineering, Brigham Young University
-
-    ### Appointments
-    - Associate Professor, Department of Electrical and Computer Engineering, Brigham Young University, Sep 2022–Present
-    - Assistant Professor, Department of Electrical and Computer Engineering, Brigham Young University, July 2016–Aug 2022
 
     ### Education
     - Ph.D., Computer Engineering, The University of British Columbia, 2016
-        - Advisor: Steve Wilton
-        - Dissertation Title: Techniques for Enabling In-System Observation-based Debug of High-Level Synthesis Circuits on FPGAs
     - M.A.Sc., Computer Engineering, The University of British Columbia, 2012
-        - Advisor: Steve Wilton
-        - Thesis Title: Power Estimation for Diverse FPGA Architectures
     - B.A.Sc. w/ Honors, Computer Engineering, University of Toronto, 2010
 
 === "Publications"
