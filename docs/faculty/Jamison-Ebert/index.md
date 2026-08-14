@@ -69,7 +69,7 @@ hide:
         - IEEE Communications Letters
         - IEEE International Symposium on Information Theory (ISIT)
         - IEEE International Conference on Communications (ICC) Wireless Communications Symposium
-        - Reviewer, IEEE Asilomar Conference on Signals, Systems, and Computers
+        - IEEE Asilomar Conference on Signals, Systems, and Computers
 
 === "Honors"
     ## Honors
