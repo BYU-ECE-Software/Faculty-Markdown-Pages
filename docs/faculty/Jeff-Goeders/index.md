@@ -21,6 +21,7 @@ hide:
 
     He received his Ph.D. from the University of British Columbia in 2016, where he worked with Steve Wilton on techniques for in-system, observation-based debug of high-level synthesis circuits on FPGAs.  He is a Senior Member of both the IEEE and the ACM, and serves the reconfigurable computing community as General Chair of FCCM 2027 and as Information Director for ACM Transactions on Reconfigurable Technology and Systems.
 
+    [Curriculum Vitae](jgoeders_cv.pdf) &nbsp;&nbsp;
     [Google Scholar](https://scholar.google.com/citations?user=mSyX_kYAAAAJ&hl=en) &nbsp;&nbsp;
     [Configurable Computing Lab](https://ccl.byu.edu/) &nbsp;&nbsp;
     [GitHub](https://github.com/jgoeders)
