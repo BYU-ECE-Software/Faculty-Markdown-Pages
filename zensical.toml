@@ -356,3 +356,18 @@ kwds = { case = "lower" }
 custom_checkbox = true
 
 [project.markdown_extensions.pymdownx.tilde]
+
+[project.theme.icon.tag]
+default = "lucide/hash"
+robotics = "lucide/bot"
+controls = "lucide/bot"
+uavs = "lucide/bot"
+rf = "lucide/antenna"
+signals = "lucide/radio"
+
+[project.extra.tags]
+Robotics = "robotics"
+"RF Design" = "rf"
+Controls = "controls"
+UAVs = "uavs"
+Signals = "signals"
