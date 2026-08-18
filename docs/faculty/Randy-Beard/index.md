@@ -28,7 +28,7 @@ hide:
     - **Email:** beard (at) byu (dot) edu
     - **Phone:** (801) 422-8392
     - **Office:** 460B Engineering Building
-    - **Office hours:** MWF, 4:00–5:00 p.m.
+    - **Office hours:** TTh, 4:00–5:00 p.m.
 
     ### Education
     - Ph.D., Electrical Engineering, Rensselaer Polytechnic Institute, 1995
