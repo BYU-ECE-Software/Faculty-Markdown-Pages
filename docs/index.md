@@ -16,6 +16,7 @@ hide:
 
     Department Chair
 
+
 -   [![Steven Allen](faculty/Steven-Allen/images/allen.jpg){ width="200" }](faculty/Steven-Allen/#overview)
 
     [**Steven Allen**](faculty/Steven-Allen/#overview)
@@ -39,6 +40,8 @@ hide:
     [**Jamison Ebert**](faculty/Jamison-Ebert/#overview)
 
     Assistant Professor
+
+    <span class="tag">Signals</span>
 
 -   [![Jeff Goeders](faculty/Jeff-Goeders/images/goeders.jpg){ width="200" }](faculty/Jeff-Goeders/#overview)
 

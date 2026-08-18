@@ -1,16 +1,14 @@
 :root > * {
-  --md-primary-fg-color:        #002E5D;
-  --md-primary-fg-color--light: #FFFFFF;
-  --md-primary-fg-color--dark:  #0047BA;
-  --md-accent-fg-color:         #0047BA;
-  --md-default-bg-color--light: #002E5D;
+  --md-primary-fg-color: #002e5d;
+  --md-primary-fg-color--light: #ffffff;
+  --md-primary-fg-color--dark: #0047ba;
+  --md-accent-fg-color: #0047ba;
+  --md-default-bg-color--light: #002e5d;
   /* --md-default-fg-color:        #FFFFFF; */
-  --white: #FFFFFF;
-
-  
+  --white: #ffffff;
 }
 
-.md-icon svg{
+.md-icon svg {
   fill: var(--md-primary-fg-color);
 }
 
@@ -37,11 +35,11 @@
 }
 
 .md-sidebar {
-  background-color: #FFFFFF;
+  background-color: #ffffff;
 }
 
 .md-top {
-  color: #FFFFFF;
+  color: #ffffff;
 }
 
 .md-typeset .grid {
@@ -51,4 +49,12 @@
 .md-typeset .grid.cards img {
   display: block;
   margin: 0.5rem auto 0;
+}
+
+.tag {
+  display: inline-block;
+  padding: 2px 6px;
+  font-size: 0.6rem;
+  border-radius: 4px;
+  background: var(--md-code-bg-color);
 }
